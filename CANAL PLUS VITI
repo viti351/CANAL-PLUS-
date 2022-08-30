@@ -1,52 +1,3 @@
-#EXTM3U
-#EXTINF:-1 tvg-id="ext" tvg-name="    SUP MOVIES    " group-title="SPAIN",    SUP MOVIES    
-http://eb30d042a632a07cd3db37c10fc3bdc5.spa.4retnec.co:25461/i5U8lhHNvP/660164628689/27147?h=31ea481fe91f3926682fba15b23962c502215537&z=188.26.199.38&i=263708
-#EXTINF:-1 tvg-id="ext" tvg-name="HBO Max 1" group-title="SPAIN",HBO Max 1
-http://eb30d042a632a07cd3db37c10fc3bdc5.spa.4retnec.co:25461/i5U8lhHNvP/660164628689/26649?h=31ea481fe91f3926682fba15b23962c502215537&z=188.26.199.38&i=263708
-#EXTINF:-1 tvg-id="ext" tvg-name="HBO Max 2" group-title="SPAIN",HBO Max 2
-http://eb30d042a632a07cd3db37c10fc3bdc5.spa.4retnec.co:25461/i5U8lhHNvP/660164628689/26650?h=31ea481fe91f3926682fba15b23962c502215537&z=188.26.199.38&i=263708
-#EXTINF:-1 tvg-id="ext" tvg-name="HBO Max 3" group-title="SPAIN",HBO Max 3
-http://eb30d042a632a07cd3db37c10fc3bdc5.spa.4retnec.co:25461/i5U8lhHNvP/660164628689/26651?h=31ea481fe91f3926682fba15b23962c502215537&z=188.26.199.38&i=263708
-#EXTINF:-1 tvg-id="ext" tvg-name="HBO Max 4" group-title="SPAIN",HBO Max 4
-http://eb30d042a632a07cd3db37c10fc3bdc5.spa.4retnec.co:25461/i5U8lhHNvP/660164628689/26652?h=31ea481fe91f3926682fba15b23962c502215537&z=188.26.199.38&i=263708
-#EXTINF:-1 tvg-id="ext" tvg-name="HBO Max 5" group-title="SPAIN",HBO Max 5
-http://eb30d042a632a07cd3db37c10fc3bdc5.spa.4retnec.co:25461/i5U8lhHNvP/660164628689/26661?h=31ea481fe91f3926682fba15b23962c502215537&z=188.26.199.38&i=263708
-#EXTINF:-1 tvg-id="ext" tvg-name="Cinesur 1" group-title="SPAIN",Cinesur 1
-http://eb30d042a632a07cd3db37c10fc3bdc5.spa.4retnec.co:25461/i5U8lhHNvP/660164628689/26715?h=31ea481fe91f3926682fba15b23962c502215537&z=188.26.199.38&i=263708
-#EXTINF:-1 tvg-id="ext" tvg-name="Marvel Studios 1" group-title="SPAIN",Marvel Studios 1
-http://eb30d042a632a07cd3db37c10fc3bdc5.spa.4retnec.co:25461/i5U8lhHNvP/660164628689/26654?h=31ea481fe91f3926682fba15b23962c502215537&z=188.26.199.38&i=263708
-#EXTINF:-1 tvg-id="ext" tvg-name="Marvel Studios 2" group-title="SPAIN",Marvel Studios 2
-http://eb30d042a632a07cd3db37c10fc3bdc5.spa.4retnec.co:25461/i5U8lhHNvP/660164628689/26655?h=31ea481fe91f3926682fba15b23962c502215537&z=188.26.199.38&i=263708
-#EXTINF:-1 tvg-id="ext" tvg-name="Procaja Tv1" group-title="SPAIN",Procaja Tv1
-http://eb30d042a632a07cd3db37c10fc3bdc5.spa.4retnec.co:25461/i5U8lhHNvP/660164628689/26722?h=31ea481fe91f3926682fba15b23962c502215537&z=188.26.199.38&i=263708
-#EXTINF:-1 tvg-id="ext" tvg-name="Procaja Tv2" group-title="SPAIN",Procaja Tv2
-http://eb30d042a632a07cd3db37c10fc3bdc5.spa.4retnec.co:25461/i5U8lhHNvP/660164628689/26723?h=31ea481fe91f3926682fba15b23962c502215537&z=188.26.199.38&i=263708
-#EXTINF:-1 tvg-id="ext" tvg-name="Procaja Tv3" group-title="SPAIN",Procaja Tv3
-http://eb30d042a632a07cd3db37c10fc3bdc5.spa.4retnec.co:25461/i5U8lhHNvP/660164628689/26724?h=31ea481fe91f3926682fba15b23962c502215537&z=188.26.199.38&i=263708
-#EXTINF:-1 tvg-id="ext" tvg-name="Apple TV+ 1" group-title="SPAIN",Apple TV+ 1
-http://eb30d042a632a07cd3db37c10fc3bdc5.spa.4retnec.co:25461/i5U8lhHNvP/660164628689/26720?h=31ea481fe91f3926682fba15b23962c502215537&z=188.26.199.38&i=263708
-#EXTINF:-1 tvg-id="ext" tvg-name="Apple TV+ 2" group-title="SPAIN",Apple TV+ 2
-http://eb30d042a632a07cd3db37c10fc3bdc5.spa.4retnec.co:25461/i5U8lhHNvP/660164628689/26721?h=31ea481fe91f3926682fba15b23962c502215537&z=188.26.199.38&i=263708
-#EXTINF:-1 tvg-id="ext" tvg-name="Movistar+1 4K" group-title="SPAIN",Movistar+1 4K
-http://eb30d042a632a07cd3db37c10fc3bdc5.spa.4retnec.co:25461/i5U8lhHNvP/660164628689/26660?h=31ea481fe91f3926682fba15b23962c502215537&z=188.26.199.38&i=263708
-#EXTINF:-1 tvg-id="ext" tvg-name="Disney Junior Movies 1" group-title="SPAIN",Disney Junior Movies 1
-http://eb30d042a632a07cd3db37c10fc3bdc5.spa.4retnec.co:25461/i5U8lhHNvP/660164628689/26656?h=31ea481fe91f3926682fba15b23962c502215537&z=188.26.199.38&i=263708
-#EXTINF:-1 tvg-id="ext" tvg-name="Disney Junior Movies 2" group-title="SPAIN",Disney Junior Movies 2
-http://eb30d042a632a07cd3db37c10fc3bdc5.spa.4retnec.co:25461/i5U8lhHNvP/660164628689/26657?h=31ea481fe91f3926682fba15b23962c502215537&z=188.26.199.38&i=263708
-#EXTINF:-1 tvg-id="ext" tvg-name="Prime Video 1" group-title="SPAIN",Prime Video 1
-http://eb30d042a632a07cd3db37c10fc3bdc5.spa.4retnec.co:25461/i5U8lhHNvP/660164628689/26653?h=31ea481fe91f3926682fba15b23962c502215537&z=188.26.199.38&i=263708
-#EXTINF:-1 tvg-id="ext" tvg-name="Prime Video 2" group-title="SPAIN",Prime Video 2
-http://eb30d042a632a07cd3db37c10fc3bdc5.spa.4retnec.co:25461/i5U8lhHNvP/660164628689/26658?h=31ea481fe91f3926682fba15b23962c502215537&z=188.26.199.38&i=263708
-#EXTINF:-1 tvg-id="ext" tvg-name="Canal Alquiler HD 1" group-title="SPAIN",Canal Alquiler HD 1
-http://eb30d042a632a07cd3db37c10fc3bdc5.spa.4retnec.co:25461/i5U8lhHNvP/660164628689/26647?h=31ea481fe91f3926682fba15b23962c502215537&z=188.26.199.38&i=263708
-#EXTINF:-1 tvg-id="ext" tvg-name="Disney + 1" group-title="SPAIN",Disney + 1
-http://eb30d042a632a07cd3db37c10fc3bdc5.spa.4retnec.co:25461/i5U8lhHNvP/660164628689/26648?h=31ea481fe91f3926682fba15b23962c502215537&z=188.26.199.38&i=263708
-#EXTINF:-1 tvg-id="ext" tvg-name="Rakuten TV Top 1 HD" group-title="SPAIN",Rakuten TV Top 1 HD
-http://eb30d042a632a07cd3db37c10fc3bdc5.spa.4retnec.co:25461/i5U8lhHNvP/660164628689/26716?h=31ea481fe91f3926682fba15b23962c502215537&z=188.26.199.38&i=263708
-#EXTINF:-1 tvg-id="ext" tvg-name="Rakuten TV Top 2 HD" group-title="SPAIN",Rakuten TV Top 2 HD
-http://eb30d042a632a07cd3db37c10fc3bdc5.spa.4retnec.co:25461/i5U8lhHNvP/660164628689/26717?h=31ea481fe91f3926682fba15b23962c502215537&z=188.26.199.38&i=263708
-#EXTINF:-1 tvg-id="ext" tvg-name="Rakuten TV Family HD" group-title="SPAIN",Rakuten TV Family HD
-http://eb30d042a632a07cd3db37c10fc3bdc5.spa.4retnec.co:25461/i5U8lhHNvP/660164628689/26718?h=31ea481fe91f3926682fba15b23962c502215537&z=188.26.199.38&i=263708
 #EXTINF:-1 tvg-id="ext" tvg-name="    NATIONAL    " group-title="SPAIN",    NATIONAL    
 http://eb30d042a632a07cd3db37c10fc3bdc5.spa.4retnec.co:25461/i5U8lhHNvP/660164628689/27155?h=31ea481fe91f3926682fba15b23962c502215537&z=188.26.199.38&i=263708
 #EXTINF:-1 tvg-id="ext" tvg-name="LA 1 HD" group-title="SPAIN",LA 1 HD
@@ -545,56 +496,6 @@ http://eb30d042a632a07cd3db37c10fc3bdc5.spa.4retnec.co:25461/i5U8lhHNvP/66016462
 http://eb30d042a632a07cd3db37c10fc3bdc5.spa.4retnec.co:25461/i5U8lhHNvP/660164628689/420?h=31ea481fe91f3926682fba15b23962c502215537&z=188.26.199.38&i=263708
 #EXTINF:-1 tvg-id="ext" tvg-name="IBERALIA TV FULL HD" group-title="SPAIN",IBERALIA TV FULL HD
 http://eb30d042a632a07cd3db37c10fc3bdc5.spa.4retnec.co:25461/i5U8lhHNvP/660164628689/3845?h=31ea481fe91f3926682fba15b23962c502215537&z=188.26.199.38&i=263708
-#EXTINF:-1 tvg-id="ext" tvg-name="    Ninos    " group-title="SPAIN",    Ninos    
-http://eb30d042a632a07cd3db37c10fc3bdc5.spa.4retnec.co:25461/i5U8lhHNvP/660164628689/27153?h=31ea481fe91f3926682fba15b23962c502215537&z=188.26.199.38&i=263708
-#EXTINF:-1 tvg-id="ext" tvg-name="DISNEY CH HD" group-title="SPAIN",DISNEY CH HD
-http://eb30d042a632a07cd3db37c10fc3bdc5.spa.4retnec.co:25461/i5U8lhHNvP/660164628689/434?h=31ea481fe91f3926682fba15b23962c502215537&z=188.26.199.38&i=263708
-#EXTINF:-1 tvg-id="ext" tvg-name="DISNEY CH FULL HD" group-title="SPAIN",DISNEY CH FULL HD
-http://eb30d042a632a07cd3db37c10fc3bdc5.spa.4retnec.co:25461/i5U8lhHNvP/660164628689/3837?h=31ea481fe91f3926682fba15b23962c502215537&z=188.26.199.38&i=263708
-#EXTINF:-1 tvg-id="ext" tvg-name="DISNEY JR" group-title="SPAIN",DISNEY JR
-http://eb30d042a632a07cd3db37c10fc3bdc5.spa.4retnec.co:25461/i5U8lhHNvP/660164628689/410?h=31ea481fe91f3926682fba15b23962c502215537&z=188.26.199.38&i=263708
-#EXTINF:-1 tvg-id="ext" tvg-name="DISNEY JR FULL HD" group-title="SPAIN",DISNEY JR FULL HD
-http://eb30d042a632a07cd3db37c10fc3bdc5.spa.4retnec.co:25461/i5U8lhHNvP/660164628689/3838?h=31ea481fe91f3926682fba15b23962c502215537&z=188.26.199.38&i=263708
-#EXTINF:-1 tvg-id="ext" tvg-name="CLAN  TVE" group-title="SPAIN",CLAN  TVE
-http://eb30d042a632a07cd3db37c10fc3bdc5.spa.4retnec.co:25461/i5U8lhHNvP/660164628689/403?h=31ea481fe91f3926682fba15b23962c502215537&z=188.26.199.38&i=263708
-#EXTINF:-1 tvg-id="ext" tvg-name="CLAN TVE FULL HD" group-title="SPAIN",CLAN TVE FULL HD
-http://eb30d042a632a07cd3db37c10fc3bdc5.spa.4retnec.co:25461/i5U8lhHNvP/660164628689/3832?h=31ea481fe91f3926682fba15b23962c502215537&z=188.26.199.38&i=263708
-#EXTINF:-1 tvg-id="ext" tvg-name="BOING" group-title="SPAIN",BOING
-http://eb30d042a632a07cd3db37c10fc3bdc5.spa.4retnec.co:25461/i5U8lhHNvP/660164628689/396?h=31ea481fe91f3926682fba15b23962c502215537&z=188.26.199.38&i=263708
-#EXTINF:-1 tvg-id="ext" tvg-name="BOING FULL HD" group-title="SPAIN",BOING FULL HD
-http://eb30d042a632a07cd3db37c10fc3bdc5.spa.4retnec.co:25461/i5U8lhHNvP/660164628689/3826?h=31ea481fe91f3926682fba15b23962c502215537&z=188.26.199.38&i=263708
-#EXTINF:-1 tvg-id="ext" tvg-name="NICKELODEONHD" group-title="SPAIN",NICKELODEONHD
-http://eb30d042a632a07cd3db37c10fc3bdc5.spa.4retnec.co:25461/i5U8lhHNvP/660164628689/452?h=31ea481fe91f3926682fba15b23962c502215537&z=188.26.199.38&i=263708
-#EXTINF:-1 tvg-id="ext" tvg-name="NICKELODEON FULL HD" group-title="SPAIN",NICKELODEON FULL HD
-http://eb30d042a632a07cd3db37c10fc3bdc5.spa.4retnec.co:25461/i5U8lhHNvP/660164628689/3853?h=31ea481fe91f3926682fba15b23962c502215537&z=188.26.199.38&i=263708
-#EXTINF:-1 tvg-id="ext" tvg-name="NICK JR" group-title="SPAIN",NICK JR
-http://eb30d042a632a07cd3db37c10fc3bdc5.spa.4retnec.co:25461/i5U8lhHNvP/660164628689/451?h=31ea481fe91f3926682fba15b23962c502215537&z=188.26.199.38&i=263708
-#EXTINF:-1 tvg-id="ext" tvg-name="NICK JR FULL HD" group-title="SPAIN",NICK JR FULL HD
-http://eb30d042a632a07cd3db37c10fc3bdc5.spa.4retnec.co:25461/i5U8lhHNvP/660164628689/3852?h=31ea481fe91f3926682fba15b23962c502215537&z=188.26.199.38&i=263708
-#EXTINF:-1 tvg-id="ext" tvg-name="CANAL PANDA" group-title="SPAIN",CANAL PANDA
-http://eb30d042a632a07cd3db37c10fc3bdc5.spa.4retnec.co:25461/i5U8lhHNvP/660164628689/401?h=31ea481fe91f3926682fba15b23962c502215537&z=188.26.199.38&i=263708
-#EXTINF:-1 tvg-id="ext" tvg-name="CANAL PANDA FULL HD" group-title="SPAIN",CANAL PANDA FULL HD
-http://eb30d042a632a07cd3db37c10fc3bdc5.spa.4retnec.co:25461/i5U8lhHNvP/660164628689/3830?h=31ea481fe91f3926682fba15b23962c502215537&z=188.26.199.38&i=263708
-#EXTINF:-1 tvg-id="ext" tvg-name="BABY TV" group-title="SPAIN",BABY TV
-http://eb30d042a632a07cd3db37c10fc3bdc5.spa.4retnec.co:25461/i5U8lhHNvP/660164628689/383?h=31ea481fe91f3926682fba15b23962c502215537&z=188.26.199.38&i=263708
-#EXTINF:-1 tvg-id="ext" tvg-name="BABY TV FULL HD" group-title="SPAIN",BABY TV FULL HD
-http://eb30d042a632a07cd3db37c10fc3bdc5.spa.4retnec.co:25461/i5U8lhHNvP/660164628689/3822?h=31ea481fe91f3926682fba15b23962c502215537&z=188.26.199.38&i=263708
-#EXTINF:-1 tvg-id="ext" tvg-name="DreamWorks HD" group-title="SPAIN",DreamWorks HD
-http://eb30d042a632a07cd3db37c10fc3bdc5.spa.4retnec.co:25461/i5U8lhHNvP/660164628689/26625?h=31ea481fe91f3926682fba15b23962c502215537&z=188.26.199.38&i=263708
-#EXTINF:-1 tvg-id="ext" tvg-name="FOX NEWS" group-title="SPAIN",FOX NEWS
-http://eb30d042a632a07cd3db37c10fc3bdc5.spa.4retnec.co:25461/i5U8lhHNvP/660164628689/417?h=31ea481fe91f3926682fba15b23962c502215537&z=188.26.199.38&i=263708
-#EXTINF:-1 tvg-id="ext" tvg-name="HBO XTREM HD" group-title="SPAIN",HBO XTREM HD
-http://eb30d042a632a07cd3db37c10fc3bdc5.spa.4retnec.co:25461/i5U8lhHNvP/660164628689/26341?h=31ea481fe91f3926682fba15b23962c502215537&z=188.26.199.38&i=263708
-#EXTINF:-1 tvg-id="ext" tvg-name="SOMOS" group-title="SPAIN",SOMOS
-http://eb30d042a632a07cd3db37c10fc3bdc5.spa.4retnec.co:25461/i5U8lhHNvP/660164628689/26342?h=31ea481fe91f3926682fba15b23962c502215537&z=188.26.199.38&i=263708
-#EXTINF:-1 tvg-id="ext" tvg-name="MEZZO LIVE HD" group-title="SPAIN",MEZZO LIVE HD
-http://eb30d042a632a07cd3db37c10fc3bdc5.spa.4retnec.co:25461/i5U8lhHNvP/660164628689/369?h=31ea481fe91f3926682fba15b23962c502215537&z=188.26.199.38&i=263708
-#EXTINF:-1 tvg-id="ext" tvg-name="Mezzo" group-title="SPAIN",Mezzo
-http://eb30d042a632a07cd3db37c10fc3bdc5.spa.4retnec.co:25461/i5U8lhHNvP/660164628689/446?h=31ea481fe91f3926682fba15b23962c502215537&z=188.26.199.38&i=263708
-#EXTINF:-1 tvg-id="ext" tvg-name="Classica" group-title="SPAIN",Classica
-http://eb30d042a632a07cd3db37c10fc3bdc5.spa.4retnec.co:25461/i5U8lhHNvP/660164628689/404?h=31ea481fe91f3926682fba15b23962c502215537&z=188.26.199.38&i=263708
-#EXTINF:-1 tvg-id="ext" tvg-name="MTV ESPANA" group-title="SPAIN",MTV ESPANA
-http://eb30d042a632a07cd3db37c10fc3bdc5.spa.4retnec.co:25461/i5U8lhHNvP/660164628689/447?h=31ea481fe91f3926682fba15b23962c502215537&z=188.26.199.38&i=263708
 #EXTINF:-1 tvg-id="ext" tvg-name="    TDT    " group-title="SPAIN",    TDT    
 http://eb30d042a632a07cd3db37c10fc3bdc5.spa.4retnec.co:25461/i5U8lhHNvP/660164628689/27157?h=31ea481fe91f3926682fba15b23962c502215537&z=188.26.199.38&i=263708
 #EXTINF:-1 tvg-id="ext" tvg-name="A3SERIES" group-title="SPAIN",A3SERIES
